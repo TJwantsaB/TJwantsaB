@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @TJwantsaB
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python and CS
-- 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me through GitHub?
+- whatsup b
 
 <!---
 TJwantsaB/TJwantsaB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
